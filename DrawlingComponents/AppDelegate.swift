@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  DrawlingComponents
 //
-//  Created by iChrille on 08/01/15.
+//  Created by Christian Petersen
 //  Copyright (c) 2015 Reversebox. All rights reserved.
 //
 
